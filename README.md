@@ -10,7 +10,7 @@ Ce widget de calendrier WordPress vous permet d'afficher un calendrier interacti
 
 ## Installation
 
-1. Téléchargez le fichier ZIP du plugin depuis [GitHub](/1scra/boumboum).
+1. Téléchargez le fichier ZIP du plugin depuis [GitHub](/boumboum).
 2. Accédez à votre tableau de bord WordPress et sélectionnez "Extensions" > "Ajouter une nouvelle".
 3. Cliquez sur "Téléverser le plugin" et sélectionnez le fichier ZIP téléchargé.
 4. Activez le plugin une fois l'installation terminée.
@@ -29,4 +29,4 @@ Ce widget a été développé par ISCRA Radu.
 
 ## Support
 
-Pour obtenir de l'aide ou signaler des problèmes, veuillez ouvrir une issue sur [GitHub](/1scra/boumboum) ou me contacter à iscraradu24@gmail.com.
+Pour obtenir de l'aide ou signaler des problèmes, veuillez ouvrir une issue sur [GitHub](/boumboum) ou me contacter à iscraradu24@gmail.com.
